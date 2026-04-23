@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Dhanavathi",
+        "location": "Chennai",
+        "message": "emergency",
+        "time": "2026-04-23 15:42:10"
+    },
+    {
+        "name": "Dhanavathi",
+        "location": "Chennai",
+        "message": "emer",
+        "time": "2026-04-23 15:43:53"
+    },
+    {
+        "name": "Emergency User",
+        "location": "12.948230081981901,80.23661540508935",
+        "message": "\ud83d\udea8 SOS Emergency!",
+        "time": "2026-04-23 15:47:18"
+    }
+]

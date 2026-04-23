@@ -1,0 +1,41 @@
+body {
+    font-family: Arial;
+    background: linear-gradient(to right, #ff416c, #ff4b2b);
+    text-align: center;
+}
+
+.container {
+    width: 350px;
+    margin: 100px auto;
+    background: white;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.sos-btn {
+    width: 100%;
+    padding: 15px;
+    background: red;
+    color: white;
+    font-size: 18px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.sos-btn:hover {
+    background: darkred;
+}
+
+#alerts {
+    margin-top: 20px;
+    text-align: left;
+}
+
+.card {
+    background: #fff;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 8px;
+    box-shadow: 0px 2px 5px rgba(0,0,0,0.1);
+}
